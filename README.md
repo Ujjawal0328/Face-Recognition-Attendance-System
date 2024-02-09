@@ -1,1 +1,2 @@
 # Face-Recognition-Attendance-System
+                  Face Recognition Attendance System offers an innovative and efficient solution for managing attendance in various settings such as workplaces, schools, and events. Leveraging cutting-edge facial recognition technology, this system streamlines the attendance tracking process, eliminating the need for traditional methods like manual sign-ins or card swipes.
